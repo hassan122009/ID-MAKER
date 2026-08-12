@@ -1,0 +1,64 @@
+/* cairo-arabic-400-normal */
+@font-face {
+  font-family: 'Cairo';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url(./cairo-files/cairo-arabic-400-normal.woff2) format('woff2'), url(./cairo-files/cairo-arabic-400-normal.woff) format('woff');
+}
+/* cairo-latin-400-normal */
+@font-face {
+  font-family: 'Cairo';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url(./cairo-files/cairo-latin-400-normal.woff2) format('woff2'), url(./cairo-files/cairo-latin-400-normal.woff) format('woff');
+}
+/* cairo-arabic-600-normal */
+@font-face {
+  font-family: 'Cairo';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src: url(./cairo-files/cairo-arabic-600-normal.woff2) format('woff2'), url(./cairo-files/cairo-arabic-600-normal.woff) format('woff');
+}
+/* cairo-latin-600-normal */
+@font-face {
+  font-family: 'Cairo';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src: url(./cairo-files/cairo-latin-600-normal.woff2) format('woff2'), url(./cairo-files/cairo-latin-600-normal.woff) format('woff');
+}
+/* cairo-arabic-700-normal */
+@font-face {
+  font-family: 'Cairo';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src: url(./cairo-files/cairo-arabic-700-normal.woff2) format('woff2'), url(./cairo-files/cairo-arabic-700-normal.woff) format('woff');
+}
+/* cairo-latin-700-normal */
+@font-face {
+  font-family: 'Cairo';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src: url(./cairo-files/cairo-latin-700-normal.woff2) format('woff2'), url(./cairo-files/cairo-latin-700-normal.woff) format('woff');
+}
+/* cairo-arabic-900-normal */
+@font-face {
+  font-family: 'Cairo';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900;
+  src: url(./cairo-files/cairo-arabic-900-normal.woff2) format('woff2'), url(./cairo-files/cairo-arabic-900-normal.woff) format('woff');
+}
+/* cairo-latin-900-normal */
+@font-face {
+  font-family: 'Cairo';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 900;
+  src: url(./cairo-files/cairo-latin-900-normal.woff2) format('woff2'), url(./cairo-files/cairo-latin-900-normal.woff) format('woff');
+}
